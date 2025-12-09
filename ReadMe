@@ -1,1 +1,5 @@
-# This is the code for Final Project!
+Composition of the sample.csv is the raw data provided in the supplement material in the original article. 
+sim_parameters_mapped_to_real_IDs.csv is the stimulated data  from articles' parameters that matches to the composition of the sample. 
+Combined_clinical_RL_57subjects.csv is the final combined the file that is used to be analyzed. 
+datastimulation.m is the stimulation of subject level data. 
+ProjectFinal.mlx visualize the final data.
