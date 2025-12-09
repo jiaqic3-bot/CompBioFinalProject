@@ -1,0 +1,58 @@
+﻿ID,Group,Sex,Age,Diagnosis,BPI_severity,McGill,Pain_diary,Facit,Fatigue_diary,BDI,GAD,Medication
+P01,Patient,F,52,RA,6.5,23,7.307692,27,7.307692,2,4,-
+P02,Patient,F,56,RA,5.25,13,5.076923,36,6.272727,7,16,"Adalimumab (inj/2 weeks), Hydroxychloroquine..."
+P03,Patient,F,50,RA,3.25,9,4,38,3.727273,6,8,Methotrexate (15mg/week)
+P05,Patient,M,60,RA,2.25,4,1.985915,29.545455,4.549296,4,5,NaN
+P07,Patient,F,36,RA,7,20,7.1,12,7,19,15,"Etanercept (50mg inj/week), Leflunomide (20mg/day)"
+P08,Control,M,60,NaN,0.25,0,0.428571,49,2.045455,0,0,NaN
+P10,Control,F,66,NaN,0,0,0.454545,52,1.909091,0,0,NaN
+P12,Control,F,43,NaN,2.75,8,1.333333,28,3.933333,3,1,NaN
+P13,Control,M,55,NaN,0.25,0,0.642857,46,0.642857,1,0,NaN
+P14,Control,F,65,NaN,0,0,0,43,0.666667,1,4,NaN
+P15,Control,F,62,NaN,0,0,0,47,3.538462,0,4,NaN
+P16,Patient,F,63,RA,1.25,2,2,33,2.933333,#NUM!,#NUM!,Hydroxychloroquine (200mg/12h)
+P17,Patient,F,55,RA,1,2,2.333333,49,2.933333,2,6,"Methotrexate (10mg/week), Sulfasalazine (500mg/...)"
+P18,Patient,F,37,RA,4.75,22,4.866667,28,2.066667,5,9,"Methotrexate (15mg/week), Adalimumab (5mg inj/2...)"
+P19,Patient,F,59,RA,3,13,3,40,2.533333,1,2,NaN
+P20,Control,F,50,NaN,0,0,2.255721,47,2.357143,0,1,NaN
+P23,Control,M,51,NaN,0.75,4,0.714286,43,1.142857,0,2,NaN
+P24,Patient,F,54,RA,2.5,6,3.533333,41,3.333333,10,5,"Hydroxychloroquine (200mg/12h), Methotrexate (20mg/week)"
+P27,Patient,F,56,RA,1.5,4,2.4,23,4.333333,5,2,"Adalimumab (inj/2 weeks), Methotrexate (15mg/week)"
+P28,Patient,F,65,RA,4.75,11,4.733333,29.25,6.8,12,18,"Methotrexate (15mg/week), Hydroxychloroquine (200mg/day)"
+P29,Patient,F,37,RA,2.5,12,3.421053,33,4.684211,5,6,"Anti TNF B (inj/week), Methotrexate (7.5mg/week)"
+P32,Control,M,51,NaN,0,0,0,52,2.071429,0,0,NaN
+P33,Patient,F,47,RA,3.5,3,4.6,36,5.8,6,6,"Adalimumab (inj/2 weeks), Leflunomide (20mg/day)"
+P34,Patient,F,57,RA,6,17,7.8,7,7.916667,6,15,"Golimumab (inj/month), Methotrexate (15mg/week)"
+P35,Patient,F,54,RA,4.25,21,4.466667,16,4.066667,22,14,"Methotrexate (25mg/week), Naproxen (500mg/12h)"
+P37,Control,F,50,NaN,0,0,0,52,1.230769,0,0,NaN
+P38,Patient,F,60,RA,5,17,6.090909,22,5.666667,9,5,"Benepali (50mg/weekly), Leflunomide (20mg/day)"
+P40,Patient,F,57,RA,5.75,4,5.692308,34,7,5,9,Tofacitinib (5mg/12h)
+P42,Patient,F,53,PsA,3.75,10,3.846154,33,4.230769,14,6,"Amitriptyline (75mg/day), Amlodipine (10mg/day)"
+P43,Control,F,33,NaN,1,0,1.2,49,1.733333,5,2,NaN
+P44,Patient,F,35,RA,6,17,3.357143,31,4.769231,11,5,NaN
+P46,Control,M,42,NaN,0,0,0,50,2.133333,1,0,NaN
+P47,Control,F,67,NaN,1,4,0.642857,46,1.642857,4,3,NaN
+P49,Control,F,38,NaN,0,0,0.166667,52,1.916667,0,0,NaN
+P50,Control,M,69,NaN,0,0,0,45,3.214286,0,0,NaN
+P54,Patient,F,52,RA,6.75,20,4.769231,21,7.769231,10,16,"Methotrexate (25mg/week), Sulfasalazine (500mg/...)"
+P55,Control,F,68,NaN,1,2,1.533333,48,2.8,5,5,NaN
+P56,Patient,F,45,RA,6.75,26,6.466667,14,5.733333,13,13,"Prednisalone (2.5mg/day), Nortriptyline (10mg/day)"
+P57,Patient,F,54,RA,3.25,15,4.9375,27,6.375,4,0,"Hydroxychloroquine (200mg/day), Methotrexate (10mg/week)"
+P58,Control,F,59,NaN,0,0,0.6,52,0.733333,4,6,NaN
+P59,Control,M,65,NaN,0,0,0.181818,50,1.454545,0,0,NaN
+P60,Control,F,64,NaN,0,0,0.071429,49,0.285714,1,1,NaN
+P61,Patient,M,45,PsA,5.25,21,5.6,32,8.3,8,10,"Meloxicam (25mg/day), Methotrexate (25mg/week)"
+P64,Patient,F,49,RA,4.25,4,5.461538,32,6.307692,4,3,"Methotrexate (25mg/week), Benepali, Etanercept"
+P65,Patient,F,62,PsA,6.25,11,7.642857,25,6.214286,6,5,Methotrexate (10mg/week)
+P66,Patient,F,62,RA,3.75,24,5,3,6.6,16,5,Methotrexate (15mg/week)
+P68,Control,F,58,NaN,0,0,0,42,1.25,0,0,NaN
+P69,Patient,F,39,RA,7,19,7.5,11,8,16,6,"Methotrexate (10mg/week), Tocilizumab (inj/week)"
+P71,Control,F,42,NaN,0,0,0,50,0.8,2,2,NaN
+P72,Control,M,54,NaN,0,0,0,48,4.285714,0,0,NaN
+P73,Patient,F,45,PsA,3,2,4.333333,34,5.133333,8,6,Methotrexate (20mg/week)
+P74,Control,M,44,NaN,0,0,0,51,1.571429,0,0,NaN
+P75,Control,F,61,NaN,1.5,9,2.166667,48,0.833333,2,0,NaN
+P76,Control,F,46,NaN,0,0,0,45,5.466667,2,2,NaN
+P78,Control,M,39,NaN,0,0,2.1,50,2.7,1,2,NaN
+P79,Control,F,48,NaN,0,0,0,47,1,0,4,NaN
+P80,Control,F,57,NaN,0,0,0,52,0,0,0,NaN
